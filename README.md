@@ -16,13 +16,12 @@ In **NOTEBOOK** you can find a detailed description of the analysis methods used
 ## References
 
 1. Andrews, S.: FASTQC. A quality control tool for high throughput sequence data, 2010 
-2. Drozdova, P., Rivarola-Duarte, L., Bedulina, D. et al. Comparison between transcriptomic responses to short-term stress exposures of a common Holarctic and endemic Lake Baikal amphipods. BMC Genomics 20, 712 (2019). https://doi.org/10.1186/s12864-019-6024-3
+2. Drozdova, P., Rivarola-Duarte, L., Bedulina, D. et al. Comparison between transcriptomic responses to short-term stress exposures of a common Holarctic and endemic Lake Baikal amphipods. BMC Genomics 20, 712 (2019).
 3. García-Alcalde F et al. "Qualimap: evaluating next-generation sequencing alignment data." Bioinformatics 28, no. 20 (2012): 2678-2679.
-doi: 10.1093/bioinformatics/bts503
-4. Gurkov, A., Rivarola-Duarte, L., Bedulina, D. et al. Indication of ongoing amphipod speciation in Lake Baikal by genetic structures within endemic species. BMC Evol Biol 19, 138 (2019). https://doi.org/10.1186/s12862-019-1470-8
-5. Huson DH, SplitsTree: analyzing and visualizing evolutionary data., Bioinformatics, Volume 14, Issue 1, 1998, Pages 68–73, https://doi.org/10.1093/bioinformatics/14.1.68
+4. Gurkov, A., Rivarola-Duarte, L., Bedulina, D. et al. Indication of ongoing amphipod speciation in Lake Baikal by genetic structures within endemic species. BMC Evol Biol 19, 138 (2019). 
+5. Huson DH, SplitsTree: analyzing and visualizing evolutionary data., Bioinformatics, Volume 14, Issue 1, 1998, Pages 68–73, 
 6. Langmead B, Salzberg S. Fast gapped-read alignment with Bowtie 2. Nature Methods. 2012, 9:357-359.
 7. Li H A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data. Bioinformatics. 2011 Nov 1;27(21):2987-93. Epub 2011 Sep 8.
-8. Okonechnikov K, Golosova O, Fursov M, the UGENE team. Unipro UGENE: a unified bioinformatics toolkit. Bioinformatics 2012 28: 1166-1167. doi:10.1093/bioinformatics/bts091 
-Schliep, K., Potts, A. J., Morrison, D. A., Grimm, G. W. (2017), Intertwining phylogenetic trees and networks. Methods in Ecology and Evolution, 8: 1212--1220.
+8. Okonechnikov K, Golosova O, Fursov M, the UGENE team. Unipro UGENE: a unified bioinformatics toolkit. Bioinformatics 2012 28: 1166-1167.
+9. Schliep, K., Potts, A. J., Morrison, D. A., Grimm, G. W. (2017), Intertwining phylogenetic trees and networks. Methods in Ecology and Evolution, 8: 1212--1220.
 
